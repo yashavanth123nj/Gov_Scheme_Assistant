@@ -1,4 +1,4 @@
-# # Government Scheme Assistant (Multilingual RAG with FastAPI Backend)
+# # Government Scheme Assistant (RAG with FastAPI Backend)
 
 This project implements a complete End-to-End **Retrieval-Augmented Generation (RAG)** pipeline designed to ingest multilingual Government Scheme PDF documents and answer user queries with precise context and metadata citations. It also includes a robust **FastAPI** backend integrated with **Ngrok** to allow direct connections from a frontend application.
 
